@@ -6,7 +6,7 @@
 ## 😄 A little about me...
 I'm a Full-Stack Software Engineer who builds beautiful, responsive and elastic web applications. I enjoy learning something new every day and am documenting my learning [here](https://twitter.com/abdulshabbirdev). 
 
-Currently I'm building a personal finance app that can help me track my expenses and get my budget in order!
+Currently I'm building a [personal finance app] (https://github.com/abdulqshabbir/expense-tracker) that can help me track my expenses and get my budget in order!
 
 My hobbies include reading (fantasy and non-fiction), learning Mandarin and spending time with my [cat](https://ibb.co/k5rjwNX).
 
