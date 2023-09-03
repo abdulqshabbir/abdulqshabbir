@@ -4,9 +4,9 @@
 </h1>
 
 ## 😄 A little about me...
-I'm a Full-Stack Software Engineer who builds beautiful, responsive and elastic web applications. I enjoy learning something new every day and am documenting my learning [here](https://twitter.com/abdulshabbirdev). 
+I'm a Software Engineer working at @Woztell who loves all things web development. I enjoy learning something new every day and am documenting my learning [here](https://twitter.com/abdulshabbirdev). 
 
-Currently I'm building a [personal finance app](https://github.com/abdulqshabbir/expense-tracker) that can help me track my expenses and get my budget in order!
+Currently I'm building a [chat application](https://github.com/abdulqshabbir/whutz-app) to learn more about web sockets, SQL and tRPC.
 
 My hobbies include reading (fantasy and non-fiction), learning Mandarin and spending time with my [cat](https://ibb.co/k5rjwNX).
 
