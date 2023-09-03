@@ -4,7 +4,7 @@
 </h1>
 
 ## 😄 A little about me...
-I'm a Software Engineer working at @Woztell who loves all things web development. I enjoy learning something new every day and am documenting my learning [here](https://twitter.com/abdulshabbirdev). 
+I'm a Software Engineer working at [Woztell](https://woztell.com/) who loves all things web development. I enjoy learning something new every day and am documenting my learning [here](https://twitter.com/abdulshabbirdev). 
 
 Currently I'm building a [chat application](https://github.com/abdulqshabbir/whutz-app) to learn more about web sockets, SQL and tRPC.
 
